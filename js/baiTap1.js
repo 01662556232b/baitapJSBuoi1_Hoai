@@ -21,5 +21,5 @@ var tongLuong = 0;
 
 tongLuong = luongNgay*number
 
-console.log("Tiền lương nhân viên", tongLuong);
+console.log("Tiền lương nhân viên", tongLuong.toLocaleString());
 
